@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/siren_scream_energy"
+	"$translucent" "1"
+	"$nocull" "1"
+}

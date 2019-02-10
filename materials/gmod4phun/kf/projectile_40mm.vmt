@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/projectile_40mm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.25 .25 .25]"
+}

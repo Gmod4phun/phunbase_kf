@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/projectile_nail"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.25 .25 .25]"
+}

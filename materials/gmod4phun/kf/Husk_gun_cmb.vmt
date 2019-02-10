@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/Husk_gun_D"
+	"$selfillum" 1
+	"$selfillummask" "gmod4phun/kf/Husk_gun_glow"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.25 .25 .25]"
+	"$phong" "1"
+	"$basemapalphaphongmask" "1"
+	"$phongexponent" 2.5
+	"$phongboost" 10
+	"$phongfresnelranges" "[0 0.1 0.25]"
+}

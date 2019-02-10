@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$basetexture" "gmod4phun/kf/KSG_neon_D"
+$selfillum 1
+$selfillummask "gmod4phun/kf/KSG_neon_Emissive"
+}

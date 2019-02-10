@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/shell_9mm_d"
+	//"$bumpmap" "gmod4phun/kf/shell_9mm_n"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 0.2]"
+	"$envmapmask" "gmod4phun/kf/shell_9mm_spec"
+}

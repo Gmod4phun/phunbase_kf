@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/AimPoint_sight"
+	"$translucent" "1"
+	
+	"$color2" "[1 1 1]"
+	
+	Proxies
+	{
+		GaussianNoise
+		{
+			resultVar	$alpha
+			mean 0.6
+			halfwidth 1
+			minVal	0.25
+			maxVal	0.75
+		}
+ 	}
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/debuggarrow1"
+	"$selfillum" "1"
+}

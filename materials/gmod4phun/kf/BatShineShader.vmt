@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/BatTex"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.25 .25 .25]"
+	"$envmapmask" "gmod4phun/kf/BatSpec"
+}

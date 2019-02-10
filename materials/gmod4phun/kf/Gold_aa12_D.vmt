@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/Gold_AA12_D"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.6 .6 .1]"
+	"$phong" "1"
+	"$basemapalphaphongmask" "1"
+	"$phongexponent" 5
+	"$phongboost" 12.5
+	"$phongfresnelranges" "[0 0.1 0.25]"
+	"$halflambert" 1
+	"$rimlight" 1
+}

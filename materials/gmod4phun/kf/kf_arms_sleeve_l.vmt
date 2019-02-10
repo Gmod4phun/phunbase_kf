@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf_hands/hands0"
+	"$model" 1
+	"$nocull" 1
+	"$halflambert" 1
+}

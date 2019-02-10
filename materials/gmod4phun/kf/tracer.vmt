@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+"$basetexture" "gmod4phun/kf/tracer"
+"$translucent" "1"
+"$additive" "1"
+"$nocull" "1"
+}

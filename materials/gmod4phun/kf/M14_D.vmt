@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/M14_D"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.825 .825 .825]"
+	"$phong" "1"
+	"$basemapalphaphongmask" "1"
+	"$phongexponent" 2.5
+	"$phongboost" 20
+	"$phongfresnelranges" "[0 0.8 0.55]"
+}

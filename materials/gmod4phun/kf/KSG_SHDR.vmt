@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/KSG_D"
+	"$selfillum" "1"
+	"$selfillummask" "gmod4phun/kf/KSG_sights_alpha"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.25 .25 .25]"
+	"$phong" "1"
+	"$basemapalphaphongmask" "1"
+	"$phongexponent" 2.5
+	"$phongboost" 10
+	"$phongfresnelranges" "[0 0.1 0.25]"
+}

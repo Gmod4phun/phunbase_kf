@@ -1,0 +1,27 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gmod4phun/kf/PilotBloom"
+	"$additive" "1"
+	"$nocull" "1"
+	"$model" "1"
+
+    "$alpha_help" 0
+    "$alpha_multiply_help" 1
+
+    "Proxies"
+    {
+        "UniformNoise"
+        {
+            "minVal" 0.2
+            "maxVal" 0.5
+            "resultVar" "$alpha_help"
+        }     
+        
+        "Multiply"
+        {
+            "srcVar1" "$alpha_help"
+            "srcVar2" "$alpha_multiply_help"
+            "resultVar" "$alpha"
+        }
+    }
+}
